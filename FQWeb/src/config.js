@@ -1,4 +1,4 @@
-let config_host = "http://192.168.1.98:9999"
+let config_host = "http://192.168.1.85:9999"
 let config_host2 = "https://fanqienovel.com"
 
 if (typeof host !== "undefined") {
