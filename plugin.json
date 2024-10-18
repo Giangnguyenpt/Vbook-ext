@@ -14,6 +14,17 @@
       "description": "Đọc truyện trên trang https://www.fanqienovel.com",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    },
+    {
+      "name": "Doctruyen3xq",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/Doctruyen3xq/plugin.zip",
+      "version": 1,
+      "source": "https://doctruyen3qw.pro/",
+      "icon": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/Doctruyen3xq/icon.png",
+      "description": "Đọc truyện trên trang Doctruyen3xq ",
+      "type": "comic",
+      "locale": "vi_VI"
     }
   ]
 }
