@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": " Đọc Truyện 3Q",
+    "author": "GzN",
+    "version": 2,
+    "source": "https://www.doctruyen3qmoi.pro/",
+    "regexp": "(www\.)?(doctruyen3qmoi\.pro|doctruyen3q*\.pro|toptruyen\.pro|toptruyenx\.pro|doctruyen3qx\.pro|doctruyen3qto\.pro)/truyen-tranh/(.*?)/(.*?)",
+    "description": "",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "chap": "chap.js"
+  }
+}
