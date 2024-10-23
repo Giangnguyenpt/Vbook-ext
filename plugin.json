@@ -36,6 +36,17 @@
       "description": "Đọc truyện trên trang NettruyenLL ",
       "type": "comic",
       "locale": "vi_VN"
+    },
+    {
+      "name": "NhattruyenVN",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/NhattruyenVN/plugin.zip",
+      "version": 1,
+      "source": "https://doctruyen3qw.pro/",
+      "icon": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/NhattruyenVN/icon.png",
+      "description": "Đọc truyện trên trang NhattruyenVN ",
+      "type": "comic",
+      "locale": "vi_VN"
     }
   ]
 }
