@@ -47,6 +47,17 @@
       "description": "Đọc truyện trên trang NhattruyenVN ",
       "type": "comic",
       "locale": "vi_VN"
+    },
+    {
+      "name": "NhattruyenSS",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/NhattruyenSS/plugin.zip",
+      "version": 1,
+      "source": "https://doctruyen3qw.pro/",
+      "icon": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/NhattruyenSS/icon.png",
+      "description": "Đọc truyện trên trang NhattruyenSS ",
+      "type": "comic",
+      "locale": "vi_VN"
     }
   ]
 }
