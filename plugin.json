@@ -58,6 +58,17 @@
       "description": "Đọc truyện trên trang NhattruyenSS ",
       "type": "comic",
       "locale": "vi_VN"
+    },
+    {
+      "name": "ToptruyenVN",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/ToptruyenVN/plugin.zip",
+      "version": 1,
+      "source": "https://doctruyen3qw.pro/",
+      "icon": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/ToptruyenVN/icon.png",
+      "description": "Đọc truyện trên trang Toptruyen ",
+      "type": "comic",
+      "locale": "vi_VN"
     }
   ]
 }
