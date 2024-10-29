@@ -16,6 +16,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "FQWeb-Cachua",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/fqweb/plugin.zip",
+      "version": 1,
+      "source": "https://www.fanqienovel.com",
+      "icon": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/fqweb/icon.png",
+      "description": "Đọc truyện trên trang https://www.fanqienovel.com",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "Doctruyen3xq",
       "author": "GzN",
       "path": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/Doctruyen3xq/plugin.zip",
