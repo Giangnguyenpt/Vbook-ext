@@ -37,6 +37,18 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
+    
+    {
+      "name": "69shuba2-GzN",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/69shuba/plugin.zip",
+      "version": 1,
+      "source": "https://www.69shu.biz",
+      "icon": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/69shuba/icon.png",
+      "description": "Đọc truyện trên trang https://www.69shu.biz",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
     {
       "name": "Doctruyen3xq",
       "author": "GzN",
