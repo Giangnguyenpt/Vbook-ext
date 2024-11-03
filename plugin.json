@@ -27,6 +27,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "69shu-GzN",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/69shu/plugin.zip",
+      "version": 1,
+      "source": "https://www.fanqienovel.com",
+      "icon": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/69shu/icon.png",
+      "description": "Đọc truyện trên trang https://www.69shu.biz",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "Doctruyen3xq",
       "author": "GzN",
       "path": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/Doctruyen3xq/plugin.zip",
