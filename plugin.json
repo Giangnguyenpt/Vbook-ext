@@ -72,6 +72,18 @@
       "type": "comic",
       "locale": "vi_VN"
     },
+        {
+      "name": "Doctruyen3qzui",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/Doctruyen3xq/plugin2.zip",
+      "version": 1,
+      "source": "https://doctruyen3qzui.com/",
+      "icon": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/Doctruyen3xq/icon.png",
+      "description": "Đọc truyện trên trang Doctruyen3xq ",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    
     {
       "name": "NettruyenLL",
       "author": "GzN",
