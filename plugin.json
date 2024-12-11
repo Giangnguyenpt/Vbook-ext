@@ -51,6 +51,30 @@
     },
     
     {
+      "name": "FQWeb-Chanhqie",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Phong-Dam/vbook-extions/main/ChanhQie/plugin.zip",
+      "version": 1,
+      "source": "https://www.fanqienovel.com",
+      "icon": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/FQWeb/icon.png",
+      "description": "Đọc truyện trên trang https://www.fanqienovel.com",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    
+    {
+      "name": "FQWeb-Windyweb",
+      "author": "GzN",
+      "path": "https://raw.githubusercontent.com/Phong-Dam/vbook-extions/main/Windy-Web/plugin.zip",
+      "version": 1,
+      "source": "https://www.fanqienovel.com",
+      "icon": "https://raw.githubusercontent.com/Giangnguyenpt/Vbook-ext/main/FQWeb/icon.png",
+      "description": "Đọc truyện trên trang https://www.fanqienovel.com",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    
+    {
       "name": "69shubb-GzN",
       "author": "GzN",
       "path": "https://raw.githubusercontent.com/Chanhnh/vbook-ext/main/69shu/Archive.zip",
